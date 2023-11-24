@@ -1,0 +1,1 @@
+This Java console application calculates a student's grade based on user-inputted subject marks. It prompts for the number of subjects, records marks, calculates total marks, average percentage, and assigns a grade according to predefined criteria.

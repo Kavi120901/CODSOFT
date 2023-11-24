@@ -1,0 +1,1 @@
+This Java program is a number guessing game. It generates a random number, and the user has to guess it within 10 attempts. It provides feedback on whether the guess is too high or too low and calculates a score based on the number of attempts. The game can be restarted or exited.

@@ -1,0 +1,1 @@
+This Java program simulates a basic ATM system. Users can register, log in, and perform various banking operations such as withdrawals, deposits, transfers, checking balances, and viewing transaction history. The program includes error handling and limits on transaction amounts.
