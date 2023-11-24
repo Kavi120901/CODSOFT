@@ -1,0 +1,1 @@
+Create a responsive calculator web app using HTML, CSS, and JavaScript. The app allows users to perform basic arithmetic operations, percentage calculations, and includes a clear function. Ensure a user-friendly interface with a visually appealing design and proper error handling for invalid expressions.
