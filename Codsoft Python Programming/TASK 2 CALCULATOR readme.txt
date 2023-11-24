@@ -1,0 +1,1 @@
+Develop a command-line calculator in Python with basic arithmetic functions. Allow users to choose operations, input two numbers, and display the result. Implement error handling for division by zero. Ensure a clear and concise user interface for a seamless experience.

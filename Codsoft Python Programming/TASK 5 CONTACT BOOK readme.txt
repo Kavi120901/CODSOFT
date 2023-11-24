@@ -1,0 +1,1 @@
+Develop a command-line contact book application in Python using classes. Enable users to add, view, search, update, and delete contacts. Implement error handling for invalid inputs and provide a user-friendly interface for effective contact management.

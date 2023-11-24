@@ -1,0 +1,1 @@
+Create a user-friendly password generator in Python. Allow users to specify the length and choose whether to include digits and special characters. Utilize the `random` and `string` modules for secure and customizable password generation. Ensure clear prompts and error handling for a seamless experience.
